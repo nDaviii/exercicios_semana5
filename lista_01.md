@@ -103,7 +103,7 @@ ______
 
 Qual será a saída do código acima?
 
-<b>A) "Olá, meu nome é João. Olá, meu nome é Maria."<b>
+<b>A) "Olá, meu nome é João. Olá, meu nome é Maria."</b>
 
 B) "Olá, meu nome é ."
 

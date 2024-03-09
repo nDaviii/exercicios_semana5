@@ -32,6 +32,8 @@ b) Imprime os números ímpares de 1 a 10.
 d) Imprime os números ímpares de 2 a 10.
 
 <b>Alternativa correta: c)</b>
+
+*Conforme discutido com a professora, apesar da alternativa a, em tese, também estar correta já que o intervalo estabelecido tem como número inicial 1, a alternativa c) é a mais estrita e a qual, de fato, responde o proposto, tendo em consideração que o primeiro número a ser exibido é o 2, segundo os critérios de paridade.*
 ______
 
 **2)** Identificar a linha que falta no código para criar uma classe Veiculo com atributo marca, e uma classe Carro que herda de Veiculo com um método ligar(). 

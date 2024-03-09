@@ -139,9 +139,9 @@ class Animal {
         this.idade = idade;
     }
 
-    // Método para descrever o animal
+    // Método aplicado para descrever o animal
     descrever() {
-        console.log(`O animal é um ${this.nome}. Ele tem ${this.idade}.`);
+        console.log(`O animal é um ${this.nome}. Ele tem ${this.idade} de idade.`);
     }
 }
 
